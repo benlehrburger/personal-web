@@ -6,4 +6,4 @@ Code base @ [master branch](https://github.com/benlehrburger/Personal-Web/tree/m
 
 Production environment @ [https://www.benlehrburger.me](https://www.benlehrburger.me/)
 
-Production build @ [master branch](https://github.com/benlehrburger/Personal-Website/tree/master)
+Production build @ [benlehrburger/Personal-Website](https://github.com/benlehrburger/Personal-Website/tree/master)
